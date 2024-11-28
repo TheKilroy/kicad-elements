@@ -1,0 +1,274 @@
+(footprint "Converter_DCDC_Traco_SIP-4_Single_THT"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "DCDC-Converter, TRACO, SIP-4 , Single, 1W")
+	(tags "DCDC-Converter TRACO TBA1 THT SIP-4 1W")
+	(property "Reference" "U1"
+		(at -0.5 -3.57 0)
+		(layer "F.SilkS")
+		(uuid "f747721d-4d93-401f-98d5-a2d3aa241584")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "TRACO-SIP-4"
+		(at 2.5 12.5 0)
+		(layer "F.Fab")
+		(uuid "917c6822-89d3-44aa-993a-de92e88d9e12")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "Converter_DCDC_Traco:Converter_DCDC_Traco_SIP-4_Single_THT"
+		(at 2.5 -12 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "06af929e-0acd-4fe1-8394-6ea1e4280fc9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.tracopower.com/products/tba1.pdf"
+		(at 1.5 -10 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0e36b192-2ac5-4346-8e34-d4f4c68e62a0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "1W DC/DC converter unregulated, fixed output voltage, 1.5kVDC isolation, SIP-4"
+		(at 1.5 -14 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f1f453be-ebf1-4a9a-9b3a-8306161d0a80")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -1.75 -2.87)
+		(end 0.25 -2.87)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "21a7bdfe-5143-45d0-9057-3416c929ae2d")
+	)
+	(fp_line
+		(start -1.75 -0.87)
+		(end -1.75 -2.87)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1043c26c-19df-43bd-9788-639560216700")
+	)
+	(fp_line
+		(start -1.37 -2.22)
+		(end -1.37 9.88)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8caf8a1d-a673-42cc-a7d3-01bac6f0f1b7")
+	)
+	(fp_line
+		(start -1.37 -2.22)
+		(end 4.87 -2.22)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c1c388e4-8041-4989-9b96-f8051fabac5f")
+	)
+	(fp_line
+		(start -1.37 9.88)
+		(end 4.87 9.88)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "04d43e37-ccf6-40be-a883-2f56564affe0")
+	)
+	(fp_line
+		(start 4.87 -2.22)
+		(end 4.87 9.88)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f2bfc01b-bebc-4620-a6c1-8b08acbd7a1e")
+	)
+	(fp_line
+		(start -1.5 -2.5)
+		(end -1.5 10.03)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b4ffa7bb-0d7a-4335-8921-596b32ad42a2")
+	)
+	(fp_line
+		(start -1.5 -2.5)
+		(end 5 -2.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c83a6828-6986-4dd0-b5ce-99c8c0f77142")
+	)
+	(fp_line
+		(start -1.5 10.03)
+		(end 5 10.03)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f2ec6d13-770c-4bb2-9bce-c8c22ec1df36")
+	)
+	(fp_line
+		(start 5 -2.5)
+		(end 5 10.03)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d4cdfce5-512f-44ea-b865-900acb8449c2")
+	)
+	(fp_line
+		(start -1.25 -0.97)
+		(end -0.25 -1.97)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f7519877-402d-47bd-afb4-eb6d29b618de")
+	)
+	(fp_line
+		(start -1.25 9.68)
+		(end -1.25 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "960566ee-13df-4ec2-92ee-e124d2a4b815")
+	)
+	(fp_line
+		(start -0.25 -2)
+		(end 4.75 -2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3b96c58a-8dbf-498b-9fab-5380f0702d7d")
+	)
+	(fp_line
+		(start 4.75 -2)
+		(end 4.75 9.68)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7d67aed3-4864-45ca-9591-572a178c0641")
+	)
+	(fp_line
+		(start 4.75 9.68)
+		(end -1.25 9.68)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8ae01830-1d3c-4cd1-a20b-202a27c2f69f")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 4 11 0)
+		(layer "F.Fab")
+		(uuid "15271dad-5107-4099-9540-d7457567f044")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "4a93ebc6-b513-4594-922b-3dfd948db1fa")
+	)
+	(pad "2" thru_hole circle
+		(at 0 2.54)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "e470881e-2b5d-49d5-8135-e8751d1d7cb5")
+	)
+	(pad "3" thru_hole circle
+		(at 0 5.08)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "387887fa-4e42-447e-ad91-2bd0647ca7ce")
+	)
+	(pad "4" thru_hole circle
+		(at 0 7.62)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8bbd6f10-a44a-4ec5-a4a1-d547383f7319")
+	)
+	(model "/home/frank/Links/lnx01_frank/dev/github/3dmodels/TracoPower.3dshapes/traco-sip4.wrl"
+		(offset
+			(xyz 1.6 -3.8 0.5)
+		)
+		(scale
+			(xyz 0.3937 0.3937 0.3937)
+		)
+		(rotate
+			(xyz 0 0 90)
+		)
+	)
+)

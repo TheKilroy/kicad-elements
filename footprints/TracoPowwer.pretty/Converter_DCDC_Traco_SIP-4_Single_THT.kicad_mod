@@ -260,12 +260,12 @@
 		(remove_unused_layers no)
 		(uuid "8bbd6f10-a44a-4ec5-a4a1-d547383f7319")
 	)
-	(model "/home/frank/Links/lnx01_frank/dev/github/3dmodels/TracoPower.3dshapes/traco-sip4.wrl"
+	(model "${KICAD_DEV_DIR}/3dmodels/TracoPower.3dshapes/traco-sip4.wrl"
 		(offset
-			(xyz 1.6 -3.8 0.5)
+			(xyz 1.7 -3.9 0.5)
 		)
 		(scale
-			(xyz 0.3937 0.3937 0.3937)
+			(xyz 0.3979 0.3979 0.3979)
 		)
 		(rotate
 			(xyz 0 0 90)

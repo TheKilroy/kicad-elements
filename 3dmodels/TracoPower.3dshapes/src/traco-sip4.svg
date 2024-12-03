@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showguides="true"
-     inkscape:zoom="2.2734568"
-     inkscape:cx="367.28211"
-     inkscape:cy="148.23242"
+     inkscape:zoom="12.860614"
+     inkscape:cx="246.25574"
+     inkscape:cy="192.91459"
      inkscape:window-width="2560"
      inkscape:window-height="1531"
      inkscape:window-x="0"
@@ -50,41 +50,46 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <text
-       xml:space="preserve"
-       style="font-size:10.5833px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.264583;fill:#e0e0e0;fill-opacity:1"
-       x="72.853447"
-       y="59.586205"
-       id="text1"><tspan
-         sodipodi:role="line"
-         id="tspan1"
-         style="stroke-width:0.264583;fill:#e0e0e0;fill-opacity:1"
+    <g
+       id="g3"
+       transform="matrix(0.19862906,0,0,0.19862906,50.486369,41.466113)"
+       style="stroke-width:5.03451">
+      <text
+         xml:space="preserve"
+         style="font-size:10.5833px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#e0e0e0;fill-opacity:1;stroke-width:1.33205"
          x="72.853447"
-         y="59.586205">TRACO</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:10.5833px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;stroke-width:0.264583;fill:#e0e0e0;fill-opacity:1"
-       x="74.440948"
-       y="68.730179"
-       id="text2"><tspan
-         sodipodi:role="line"
-         id="tspan2"
-         style="stroke-width:0.264583;fill:#e0e0e0;fill-opacity:1"
+         y="59.586205"
+         id="text1"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="fill:#e0e0e0;fill-opacity:1;stroke-width:1.33205"
+           x="72.853447"
+           y="59.586205">TRACO</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:10.5833px;line-height:1.25;font-family:FreeSans;-inkscape-font-specification:FreeSans;fill:#e0e0e0;fill-opacity:1;stroke-width:1.33205"
          x="74.440948"
-         y="68.730179">POWER</tspan></text>
-    <rect
-       style="fill:#e0e0e0;fill-opacity:1;stroke-width:0.2"
-       id="rect2"
-       width="2.2"
-       height="7.8422318"
-       x="63"
-       y="51.743969" />
-    <rect
-       style="fill:#e0e0e0;fill-opacity:1;stroke-width:0.2"
-       id="rect2-5"
-       width="2.2"
-       height="7.8422318"
-       x="67.400002"
-       y="51.743969" />
+         y="68.730179"
+         id="text2"><tspan
+           sodipodi:role="line"
+           id="tspan2"
+           style="fill:#e0e0e0;fill-opacity:1;stroke-width:1.33205"
+           x="74.440948"
+           y="68.730179">POWER</tspan></text>
+      <rect
+         style="fill:#e0e0e0;fill-opacity:1;stroke-width:1.0069"
+         id="rect2"
+         width="2.2"
+         height="7.8422318"
+         x="63"
+         y="51.743969" />
+      <rect
+         style="fill:#e0e0e0;fill-opacity:1;stroke-width:1.0069"
+         id="rect2-5"
+         width="2.2"
+         height="7.8422318"
+         x="67.400002"
+         y="51.743969" />
+    </g>
   </g>
 </svg>

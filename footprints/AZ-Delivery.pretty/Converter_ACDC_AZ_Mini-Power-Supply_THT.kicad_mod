@@ -1,0 +1,286 @@
+(footprint "Converter_ACDC_AZ_Mini-Power-Supply_THT"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Footprint for AC/DC Converter AC-12-3, AC-05-3, AC03-3")
+	(tags "AZ_Delivery THT ACDC ")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "4868800d-284c-45d0-ac40-b75e8866ea01")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Converter_ACDC_AZ_Mini-Power-Supply_THT"
+		(at -3 17.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "0bff7ab7-b206-4420-a664-d7e12325437b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1f2e4e9d-b5e2-4bdd-9d99-3e6741aa0234")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://cdn.shopify.com/s/files/1/1509/1638/files/220V_zu_12V_Mini_Netzteil_Datenblatt_AZ-Delivery_Vertriebs_GmbH_rev1_ccca3461-7b82-4cff-ab11-af92fec2a0a9.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9c7c0f83-ba67-4bac-aad3-30cf98d083f2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "AZ-Delivery Mini Power Supply AC/DC, 3 W, THT"
+		(at -1 15.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ff2bac90-c203-440b-9a4f-8345fb9b8650")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -19.3 -12.8)
+		(end -16.3 -12.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ff8479fb-4f52-4a25-a2b0-54aa35ad0324")
+	)
+	(fp_line
+		(start -19.3 -9.8)
+		(end -19.3 -12.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f805de5e-81da-4383-977c-ed48ee6d46b5")
+	)
+	(fp_line
+		(start -19 -12.5)
+		(end -19 12.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "feb8d737-2f00-4a66-a8c9-f69945091f09")
+	)
+	(fp_line
+		(start -19 -12.5)
+		(end 19 -12.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2f1f654e-fa2f-497c-a948-c3569c1d7316")
+	)
+	(fp_line
+		(start -19 12.5)
+		(end 19 12.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d149b144-e991-4454-8664-87196f202b74")
+	)
+	(fp_line
+		(start 19 -12.5)
+		(end 19 12.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6b4f00b6-e455-4945-acc0-b5ec21b617c9")
+	)
+	(fp_line
+		(start -19.2 -12.7)
+		(end -19.2 12.7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8fc82d39-9595-47a8-9629-e372881d34ec")
+	)
+	(fp_line
+		(start -19.2 -12.7)
+		(end 19.2 -12.7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "483293a5-3612-4eba-be0a-e444860581ce")
+	)
+	(fp_line
+		(start -19.2 12.7)
+		(end 19.2 12.7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "2b13a912-2590-4ca5-b67e-015fd52386d9")
+	)
+	(fp_line
+		(start 19.2 -12.7)
+		(end 19.2 12.7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "60b26bd3-3729-47d2-8077-eaacb17df583")
+	)
+	(fp_line
+		(start -18.5 -12)
+		(end 18.5 -12)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0e9f757b-708e-4388-b1d0-13dad3945871")
+	)
+	(fp_line
+		(start -18.5 12)
+		(end -18.5 -12)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5c4c0a10-d879-4d8b-9f88-c19ecfb03944")
+	)
+	(fp_line
+		(start 18.5 -12)
+		(end 18.5 12)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c7c080a0-d358-4703-8e72-2991125ab172")
+	)
+	(fp_line
+		(start 18.5 12)
+		(end -18.5 12)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a85205d9-0b95-466b-a801-7f6e572b9ac6")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -15.5 -15 0)
+		(layer "F.Fab")
+		(uuid "4b61ba7e-2004-4c02-b642-9628329a9854")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at -15.24 8.89)
+		(size 1.7 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "9f4872b2-2207-4c19-848b-2415b92825d7")
+	)
+	(pad "2" thru_hole oval
+		(at -10.16 8.89)
+		(size 1.7 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "888bebfd-693e-41f1-81f9-0b010917a82e")
+	)
+	(pad "3" thru_hole oval
+		(at 10.16 -8.89)
+		(size 1.7 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d8d34d93-9a89-40d7-a1e9-0545f1c3f75a")
+	)
+	(pad "4" thru_hole oval
+		(at 15.24 -8.89)
+		(size 1.7 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "d71d82b2-47b4-434f-8417-cc15639f3a63")
+	)
+	(pad "5" thru_hole oval
+		(at 15.24 8.89)
+		(size 1.7 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1115b1d5-a990-4bcb-962c-07fd24c9d26c")
+	)
+	(model "${KICAD_DEV_DIR}/3dmodels/AZ-Delivery.3dshapes/mini-power-supply_ac-xx-3.wrl"
+		(hide yes)
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 0.3979 0.3979 0.3979)
+		)
+		(rotate
+			(xyz 0 0 180)
+		)
+	)
+	(model "${KICAD_DEV_DIR}/3dmodels/AZ-Delivery.3dshapes/mini-power-supply_ac-xx-3.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 180)
+		)
+	)
+)
